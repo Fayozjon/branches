@@ -1,0 +1,11 @@
+{
+    "id": "botble/branches",
+    "name": "Branches",
+    "namespace": "Botble\\Branches\\",
+    "provider": "Botble\\Branches\\Providers\\BranchesServiceProvider",
+    "author": "Fayozjon Berdiev",
+    "url": "https://fb.uz",
+    "version": "2.0.7",
+    "description": "Branches",
+    "minimum_core_version": "7.3.0"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "botble/branches",
+  "type": "botble-plugin",
+  "autoload": {
+    "psr-4": {
+      "Botble\\Branches\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Botble\\\\Branches\\\\Providers\\\\BranchesServiceProvider"
+      ]
+    }
+  }
+}
